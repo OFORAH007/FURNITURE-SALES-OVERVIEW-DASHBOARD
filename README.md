@@ -1,7 +1,5 @@
 # FURNITURE-SALES-OVERVIEW-DASHBOARD
 
----
-
 ##  Project Description
 
 This project presents a comprehensive overview of furniture sales performance across the United States. It analyzes:
@@ -115,11 +113,13 @@ Most orders were fulfilled using **Standard Class**, indicating cost-effectivene
 
 **Oforah Ivan Chukwudumeje**  
 _Data Analyst | Data Visualization  | Business Intelligence _  
-[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/oforah/) • [Portfolio]([https://yourportfolio.com](https://chukwudumejeoforah.carrd.co/)
+[LinkedIn](https://www.linkedin.com/in/oforah/) • [Portfolio](https://chukwudumejeoforah.carrd.co/)
 
 ---
 
 ## 📝 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+
+
 
